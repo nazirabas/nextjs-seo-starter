@@ -2,6 +2,8 @@
 
 Opinionated Next.js 14 starter with SEO baked in from the first commit. Ship a site that ranks and shares well without fighting the framework.
 
+![Preview](./public/screenshot.png)
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnazirabas%2Fnextjs-seo-starter)
 
 ## What's included
