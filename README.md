@@ -4,6 +4,8 @@ Opinionated Next.js 14 starter with SEO baked in from the first commit. Ship a s
 
 ![Preview](./public/screenshot.png)
 
+**Live demo:** [nextjs-seo-starter-mylssd0pw-elite-rentals-dubai.vercel.app](https://nextjs-seo-starter-mylssd0pw-elite-rentals-dubai.vercel.app)
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnazirabas%2Fnextjs-seo-starter)
 
 ## What's included
